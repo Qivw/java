@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<categorys>
+    <category>
+        <cid>1</cid>
+        <cname>香烟酒水</cname>
+        <desc>东风南路香烟酒水便利店</desc>
+    </category>
+    <category>
+        <cid>2</cid>
+        <cname>小吃零食</cname>
+        <desc>天明路23号小吃摊</desc>
+    </category>
+</categorys>
